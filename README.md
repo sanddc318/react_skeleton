@@ -1,2 +1,2 @@
-# react_skeleton
-Wiring up a React app made easy, courtesy of Tyler McGinnis. Covers Webpack, npm, and Babel.
+# React Skeleton
+All credits go to [Tyler McGinnis](https://tylermcginnis.com).

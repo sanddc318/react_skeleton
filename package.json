@@ -1,0 +1,23 @@
+{
+  "name": "react_skeleton",
+  "version": "1.0.0",
+  "description": "All credits go to [Tyler McGinnis](https://tylermcginnis.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanddc178/react_skeleton.git"
+  },
+  "author": "Dontavious Sanders <sanddc178@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanddc178/react_skeleton/issues"
+  },
+  "homepage": "https://github.com/sanddc178/react_skeleton#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
